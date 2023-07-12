@@ -2,7 +2,7 @@
 {
     /// <summary>
     /// Это класс. Класс - это набор кода и переменных.
-    /// Код называется методами. Переменные называются свойствами.
+    /// Код называется методами(действие). Переменные называются свойствами(описание).
     /// </summary>
     public class Program
     {
@@ -11,18 +11,42 @@
         /// static - не требуется создание объекта
         /// void - метод ничего не возвращает
         /// Main - название метода
-        /// string[] args - это параметры метода
+        /// string[] args - это параметры метода (это данные, которые приходят на вход в метод)
         /// </summary>
         static void Main(string[] args)
         {
-            // Класс - консоль
-            // У класса консоль есть метод WriteLine - написать строку на экране
-            // В скобках мы передаём данные методу WriteLine
-            // Эти данные - это строка "Hello, World!"
-            Console.WriteLine("Hello, World!");
+            var a = EnterNumber("A");
+            var b = EnterNumber("B");
 
-            Console.WriteLine("Нажмите y для завершения");
+            Console.WriteLine($"{a} + {b} = {a + b}");
+            Console.WriteLine($"{a} - {b} = {a - b}");
+            Console.WriteLine($"{a} * {b} = {a * b}");
+            Console.WriteLine($"{a} / {b} = {a / b}");
+
             WaitForExit();
+        }
+
+        /// <summary>
+        /// Метод ввода числа с клавиатуры
+        /// </summary>
+        /// <param name="numberName">Имя числа (оно будет распечатываться на экране)</param>
+        /// <returns>Введённое число</returns>
+        static double EnterNumber(string numberName)
+        {
+            while (true)
+            {
+                Console.WriteLine($"Введите число {numberName}");
+
+                double result; // Объявили переменную с именем result типа double
+
+                // Читаем с консоли строку, пытаемся её превратить в число, проверяем, успешно-ли
+                if (double.TryParse(Console.ReadLine(), out result) == true)
+                {
+                    return result;
+                }
+
+                Console.WriteLine("Вы ввели не число, повторите попытку!");
+            }
         }
 
         /// <summary>
@@ -32,6 +56,8 @@
         /// </summary>
         static void WaitForExit()
         {
+            Console.WriteLine("Нажмите y для завершения");
+
             // Это - переменная (то есть данные)
             // У переменных есть тип (какие данные в ней), имя и значение
             // Тип нашей переменной ConsoleKeyInfo - информация о нажатой клавише
