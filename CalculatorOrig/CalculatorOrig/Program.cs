@@ -1,4 +1,4 @@
-﻿namespace Calculator
+﻿namespace CalculatorOrig
 {
     public class Program
     {
@@ -16,53 +16,28 @@
 
             var operation = Console.ReadLine();
 
-            switch(operation)
+            if (operation == "+")
             {
-                case "+":
-                    result = a + b;
-                    break;
-
-                case "-":
-                    result = a - b;
-                    break;
-
-                case "*":
-                    result = a * b;
-                    break;
-
-                case "/":
-                    result = a / b;
-                    break;
-
-                default:
-                    Console.WriteLine("Введена неверная операция");
-                    WaitForExit();
-                    Environment.Exit(1);
-                    break;
+                result = a + b;
             }
-
-            //if (operation == "+")
-            //{
-            //    result = a + b;
-            //}
-            //else if (operation == "-")
-            //{
-            //    result = a - b;
-            //}
-            //else if (operation == "/")
-            //{
-            //    result = a / b;
-            //}
-            //else if (operation == "*")
-            //{
-            //    result = a * b;
-            //}
-            //else
-            //{
-            //    Console.WriteLine("Введена неверная операция");
-            //    WaitForExit();
-            //    Environment.Exit(1);
-            //}
+            else if (operation == "-")
+            {
+                result = a - b;
+            }
+            else if (operation == "/")
+            {
+                result = a / b;
+            }
+            else if (operation == "*")
+            {
+                result = a * b;
+            }
+            else
+            {
+                Console.WriteLine("Введена неверная операция");
+                WaitForExit();
+                Environment.Exit(1);
+            }
 
             Console.WriteLine($"Результат: {result}");
 

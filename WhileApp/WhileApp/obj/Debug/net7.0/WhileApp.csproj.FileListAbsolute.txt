@@ -1,0 +1,15 @@
+C:\D\Lessons\Lesson1\WhileApp\WhileApp\bin\Debug\net7.0\WhileApp.exe
+C:\D\Lessons\Lesson1\WhileApp\WhileApp\bin\Debug\net7.0\WhileApp.deps.json
+C:\D\Lessons\Lesson1\WhileApp\WhileApp\bin\Debug\net7.0\WhileApp.runtimeconfig.json
+C:\D\Lessons\Lesson1\WhileApp\WhileApp\bin\Debug\net7.0\WhileApp.dll
+C:\D\Lessons\Lesson1\WhileApp\WhileApp\bin\Debug\net7.0\WhileApp.pdb
+C:\D\Lessons\Lesson1\WhileApp\WhileApp\obj\Debug\net7.0\WhileApp.csproj.AssemblyReference.cache
+C:\D\Lessons\Lesson1\WhileApp\WhileApp\obj\Debug\net7.0\WhileApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\D\Lessons\Lesson1\WhileApp\WhileApp\obj\Debug\net7.0\WhileApp.AssemblyInfoInputs.cache
+C:\D\Lessons\Lesson1\WhileApp\WhileApp\obj\Debug\net7.0\WhileApp.AssemblyInfo.cs
+C:\D\Lessons\Lesson1\WhileApp\WhileApp\obj\Debug\net7.0\WhileApp.csproj.CoreCompileInputs.cache
+C:\D\Lessons\Lesson1\WhileApp\WhileApp\obj\Debug\net7.0\WhileApp.dll
+C:\D\Lessons\Lesson1\WhileApp\WhileApp\obj\Debug\net7.0\refint\WhileApp.dll
+C:\D\Lessons\Lesson1\WhileApp\WhileApp\obj\Debug\net7.0\WhileApp.pdb
+C:\D\Lessons\Lesson1\WhileApp\WhileApp\obj\Debug\net7.0\WhileApp.genruntimeconfig.cache
+C:\D\Lessons\Lesson1\WhileApp\WhileApp\obj\Debug\net7.0\ref\WhileApp.dll

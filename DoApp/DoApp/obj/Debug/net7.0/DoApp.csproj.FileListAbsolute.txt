@@ -1,0 +1,15 @@
+C:\D\Lessons\Lesson1\DoApp\DoApp\bin\Debug\net7.0\DoApp.exe
+C:\D\Lessons\Lesson1\DoApp\DoApp\bin\Debug\net7.0\DoApp.deps.json
+C:\D\Lessons\Lesson1\DoApp\DoApp\bin\Debug\net7.0\DoApp.runtimeconfig.json
+C:\D\Lessons\Lesson1\DoApp\DoApp\bin\Debug\net7.0\DoApp.dll
+C:\D\Lessons\Lesson1\DoApp\DoApp\bin\Debug\net7.0\DoApp.pdb
+C:\D\Lessons\Lesson1\DoApp\DoApp\obj\Debug\net7.0\DoApp.csproj.AssemblyReference.cache
+C:\D\Lessons\Lesson1\DoApp\DoApp\obj\Debug\net7.0\DoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\D\Lessons\Lesson1\DoApp\DoApp\obj\Debug\net7.0\DoApp.AssemblyInfoInputs.cache
+C:\D\Lessons\Lesson1\DoApp\DoApp\obj\Debug\net7.0\DoApp.AssemblyInfo.cs
+C:\D\Lessons\Lesson1\DoApp\DoApp\obj\Debug\net7.0\DoApp.csproj.CoreCompileInputs.cache
+C:\D\Lessons\Lesson1\DoApp\DoApp\obj\Debug\net7.0\DoApp.dll
+C:\D\Lessons\Lesson1\DoApp\DoApp\obj\Debug\net7.0\refint\DoApp.dll
+C:\D\Lessons\Lesson1\DoApp\DoApp\obj\Debug\net7.0\DoApp.pdb
+C:\D\Lessons\Lesson1\DoApp\DoApp\obj\Debug\net7.0\DoApp.genruntimeconfig.cache
+C:\D\Lessons\Lesson1\DoApp\DoApp\obj\Debug\net7.0\ref\DoApp.dll

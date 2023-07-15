@@ -1,0 +1,15 @@
+C:\D\Lessons\Lesson1\ForApp\ForApp\bin\Debug\net7.0\ForApp.exe
+C:\D\Lessons\Lesson1\ForApp\ForApp\bin\Debug\net7.0\ForApp.deps.json
+C:\D\Lessons\Lesson1\ForApp\ForApp\bin\Debug\net7.0\ForApp.runtimeconfig.json
+C:\D\Lessons\Lesson1\ForApp\ForApp\bin\Debug\net7.0\ForApp.dll
+C:\D\Lessons\Lesson1\ForApp\ForApp\bin\Debug\net7.0\ForApp.pdb
+C:\D\Lessons\Lesson1\ForApp\ForApp\obj\Debug\net7.0\ForApp.csproj.AssemblyReference.cache
+C:\D\Lessons\Lesson1\ForApp\ForApp\obj\Debug\net7.0\ForApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\D\Lessons\Lesson1\ForApp\ForApp\obj\Debug\net7.0\ForApp.AssemblyInfoInputs.cache
+C:\D\Lessons\Lesson1\ForApp\ForApp\obj\Debug\net7.0\ForApp.AssemblyInfo.cs
+C:\D\Lessons\Lesson1\ForApp\ForApp\obj\Debug\net7.0\ForApp.csproj.CoreCompileInputs.cache
+C:\D\Lessons\Lesson1\ForApp\ForApp\obj\Debug\net7.0\ForApp.dll
+C:\D\Lessons\Lesson1\ForApp\ForApp\obj\Debug\net7.0\refint\ForApp.dll
+C:\D\Lessons\Lesson1\ForApp\ForApp\obj\Debug\net7.0\ForApp.pdb
+C:\D\Lessons\Lesson1\ForApp\ForApp\obj\Debug\net7.0\ForApp.genruntimeconfig.cache
+C:\D\Lessons\Lesson1\ForApp\ForApp\obj\Debug\net7.0\ref\ForApp.dll

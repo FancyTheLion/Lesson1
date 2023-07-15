@@ -1,0 +1,15 @@
+C:\D\Lessons\Lesson1\CalculatorOrig\CalculatorOrig\bin\Debug\net7.0\CalculatorOrig.exe
+C:\D\Lessons\Lesson1\CalculatorOrig\CalculatorOrig\bin\Debug\net7.0\CalculatorOrig.deps.json
+C:\D\Lessons\Lesson1\CalculatorOrig\CalculatorOrig\bin\Debug\net7.0\CalculatorOrig.runtimeconfig.json
+C:\D\Lessons\Lesson1\CalculatorOrig\CalculatorOrig\bin\Debug\net7.0\CalculatorOrig.dll
+C:\D\Lessons\Lesson1\CalculatorOrig\CalculatorOrig\bin\Debug\net7.0\CalculatorOrig.pdb
+C:\D\Lessons\Lesson1\CalculatorOrig\CalculatorOrig\obj\Debug\net7.0\CalculatorOrig.csproj.AssemblyReference.cache
+C:\D\Lessons\Lesson1\CalculatorOrig\CalculatorOrig\obj\Debug\net7.0\CalculatorOrig.GeneratedMSBuildEditorConfig.editorconfig
+C:\D\Lessons\Lesson1\CalculatorOrig\CalculatorOrig\obj\Debug\net7.0\CalculatorOrig.AssemblyInfoInputs.cache
+C:\D\Lessons\Lesson1\CalculatorOrig\CalculatorOrig\obj\Debug\net7.0\CalculatorOrig.AssemblyInfo.cs
+C:\D\Lessons\Lesson1\CalculatorOrig\CalculatorOrig\obj\Debug\net7.0\CalculatorOrig.csproj.CoreCompileInputs.cache
+C:\D\Lessons\Lesson1\CalculatorOrig\CalculatorOrig\obj\Debug\net7.0\CalculatorOrig.dll
+C:\D\Lessons\Lesson1\CalculatorOrig\CalculatorOrig\obj\Debug\net7.0\refint\CalculatorOrig.dll
+C:\D\Lessons\Lesson1\CalculatorOrig\CalculatorOrig\obj\Debug\net7.0\CalculatorOrig.pdb
+C:\D\Lessons\Lesson1\CalculatorOrig\CalculatorOrig\obj\Debug\net7.0\CalculatorOrig.genruntimeconfig.cache
+C:\D\Lessons\Lesson1\CalculatorOrig\CalculatorOrig\obj\Debug\net7.0\ref\CalculatorOrig.dll
